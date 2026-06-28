@@ -14,25 +14,7 @@
 
 <br>
 
-<img src="assets/168abcdc633cff551c0d66da98a37a39.gif" width="300" align="left" alt="Gatinho escutando música" />
-
-<div align="justify">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&size=18&duration=3000&pause=1000&color=E4A2B8&background=FFFFFF00&width=600&height=32&lines=Oioi%21+Eu+sou+a+Sam%21+%F0%9F%92%97;Sou+Desenvolvedora+Full+Stack;Gosto+muito+de+ler;E+me+arrisco+em+cozinhar+nas+horas+vagas+%3AD)](https://git.io/typing-svg)
-
-### Sobre mim
-
-Sou estudante de **Sistemas de Informação** e me aventuro como desenvolvedora `Full Stack`. Sou apaixonada por ler, aprender novas tecnologias e entender como as coisas funcionam.
-
-Tenho experiência em `automação de dados`, `desenvolvimento de sites`, `aplicativos híbridos`, `criação de sistemas` e também me arrisco em `UI/UX`. Gosto de aprender criando, organizar ideias em projetos e transformar problemas em soluções úteis, bonitas e funcionais. ✨
-
-</div>
-
-<br clear="left"/>
-
-
----
-
+<table> <tr> <td width="320px" align="center" valign="top"> <img src="assets/168abcdc633cff551c0d66da98a37a39.gif" width="300px" alt="Gatinho escutando música" /> </td> <td valign="top" align="left"> <br> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&size=18&duration=3000&pause=1000&color=E4A2B8&background=FFFFFF00&width=560&height=32&lines=Oioi%21+Eu+sou+a+Sam%21+%F0%9F%92%97;Sou+Desenvolvedora+Full+Stack;Gosto+muito+de+ler;E+me+arrisco+em+cozinhar+nas+horas+vagas+%3AD" alt="Typing SVG" /> </a> <h3>Sobre mim</h3> <p> Sou estudante de <b>Sistemas de Informação</b> e me aventuro como desenvolvedora <code>Full Stack</code>. Sou apaixonada por ler, aprender novas tecnologias e entender como as coisas funcionam. </p> <p> Tenho experiência em <code>automação de dados</code>, <code>desenvolvimento de sites</code>, <code>aplicativos híbridos</code>, <code>criação de sistemas</code> e também me arrisco em <code>UI/UX</code>. Gosto de aprender criando, organizar ideias em projetos e transformar problemas em soluções úteis, bonitas e funcionais. ✨ </p> </td> </tr> </table>
 <p align="center">୨୧ ──── ✿ ──── ୨୧</p>
 
 <div align="center">
