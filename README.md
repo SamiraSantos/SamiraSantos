@@ -1,4 +1,3 @@
-<!-- README do perfil da Samira Santos -->
 
 <p align="center">
   <img
@@ -13,13 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=SamiraSantos&label=visitinhas+do+perfil&color=E4A2B8&style=for-the-badge&abbreviated=true" alt="Contador de visualizações do perfil" />
 </p>
 
-</br>
+<br>
 
-<img src="assets/168abcdc633cff551c0d66da98a37a39.gif" width="320" align="left" alt="Gatinho escutando música" />
+<img src="assets/168abcdc633cff551c0d66da98a37a39.gif" width="300" align="left" alt="Gatinho escutando música" />
 
 <div align="justify">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&size=18&duration=3000&pause=1000&color=E4A2B8&background=FFFFFF00&width=560&height=32&lines=Oioi%21+Eu+sou+a+Sam%21+%F0%9F%92%97;Sou+Desenvolvedora+Full+Stack;Gosto+muito+de+ler;E+me+arrisco+em+cozinhar+nas+horas+vagas+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&size=18&duration=3000&pause=1000&color=E4A2B8&background=FFFFFF00&width=600&height=32&lines=Oioi%21+Eu+sou+a+Sam%21+%F0%9F%92%97;Sou+Desenvolvedora+Full+Stack;Gosto+muito+de+ler;E+me+arrisco+em+cozinhar+nas+horas+vagas+%3AD)](https://git.io/typing-svg)
 
 ### Sobre mim
 
@@ -29,7 +28,8 @@ Tenho experiência em `automação de dados`, `desenvolvimento de sites`, `aplic
 
 </div>
 
-</br></br>
+<br clear="left"/>
+
 
 ---
 
