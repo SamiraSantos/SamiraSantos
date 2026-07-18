@@ -54,7 +54,7 @@
       <h3>🌸 Buscaí</h3>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>☕ Awake</h3>
+      <h3>🏡 Vesta</h3>
     </td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SamiraSantos/Awake">
+      <a href="https://github.com/SamiraSantos/Vesta">
         <img src="https://img.shields.io/badge/ver%20projeto-E4A2B8?style=for-the-badge&logo=github&logoColor=white&labelColor=E4A2B8&color=E4A2B8" />
       </a>
     </td>
@@ -82,7 +82,7 @@
       Aplicativo para conectar moradores a prestadores de serviços locais, facilitando a busca por profissionais próximos, contato via WhatsApp, avaliações e organização dos serviços da comunidade.
     </td>
     <td align="left" valign="top">
-      Aplicativo mobile para ajudar no equilíbrio entre sono, cochilos e consumo de cafeína no dia a dia.
+      Plataforma web de planejamento e organização da casa para montar o enxoval, organizar ambientes, acompanhar obras, comparar preços, registrar compras e controlar os gastos do novo lar.
     </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@
       <sub><b>Flutter • Dart • NestJS • TypeScript • Supabase</b></sub>
     </td>
     <td align="center" valign="bottom">
-      <sub><b>React Native • Expo • TypeScript</b></sub>
+      <sub><b>React • TypeScript • Vite • Tailwind • Supabaset</b></sub>
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@ Também sou apaixonada por livros, amo escutar música (sou muito eclética!) e,
   <img src="https://img.shields.io/badge/LinkedIn-E4A2B8?style=for-the-badge&labelColor=E4A2B8&color=E4A2B8&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:samirasantos4778@gmail.com">
-  <img src="https://img.shields.io/badge/E----mail-E4A2B8?style=for-the-badge&labelColor=E4A2B8&color=E4A2B8&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--mail-E4A2B8?style=for-the-badge&labelColor=E4A2B8&color=E4A2B8&logo=gmail&logoColor=white" />
 </a>
 
 </div>
